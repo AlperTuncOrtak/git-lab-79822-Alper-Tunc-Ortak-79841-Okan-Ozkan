@@ -1,4 +1,4 @@
-# Git Lab – Team Alper & Okan
+# Git Lab - Alper and Okan Collaboration
 
 ## Team
 
